@@ -1,3 +1,7 @@
+% Aineopintojen harjoitustyö: Ohjelmointi (Javalabra)
+% Saska Dönges, Antti Haapaniemi
+% 31.10.2016
+
 # Ohjaajat
 
 - Ohjaajat
@@ -81,7 +85,6 @@
 # Kurssin kulku
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa
-    - **Ensimmäisellä kurssiviikolla pajaa jo ??????? klo 14-16 luokassa BK107**
     - Pajaa tarjolla:
     	- **ti 14-16**
     	- **to 14-16**
