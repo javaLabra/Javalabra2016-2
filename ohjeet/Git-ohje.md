@@ -55,7 +55,7 @@ SSH-avaimen luominen ei ole pakollista, mutta helpottaa versionhallinnan käytt�
 **HUOMAA:** Tässä ohjeessa komentorivillä tarkoitetaan Linuxilla terminaalia ja Windowsin tapauksessa Git Bashia! Windowsin omat komentorivit eivät tunnista git-alkuisia komentoja, mikäli otit Gitin käyttöön yllä olevan linkin takana olevan Windows-ohjeen mukaan. Käytä Git Bashia.
 
 1. Hankkiudu Githubin sivulla luomasi repositorion näkymään. Sinne pääsee vaikkapa etusivulta kun olet kirjautunut, klikkaamalla repositorion nimeä.
-2. Kopioi vasemman sivupalkin alaosassa olevassa kentässä näkyvä kloonausosoite, joka on suunnilleen muotoa *git@github.com:käyttäjätunnuksesi/Fraktaaligeneraattori.git*. Jos osoite sen sijaan alkaa esimerkiksi *https://*, paina kentän läheisyydessä olevaa SSH-linkkiä jolloin osoitteen pitäisi muuttua oikeaan muotoon.
+2. Klikkaa vihreää "Clone or download"-nappia ja kopio sieltä kloonausosoite, joka on suunnilleen muotoa *git@github.com:käyttäjätunnuksesi/Fraktaaligeneraattori.git*. Jos osoite sen sijaan alkaa esimerkiksi *https://*, paina kentän läheisyydessä olevaa SSH-linkkiä jolloin osoitteen pitäisi muuttua oikeaan muotoon.
 3. Avaa komentorivi ja anna komento tyyliin `git clone git@github.com:käyttäjätunnuksesi/Fraktaaligeneraattori.git`
 4. Seuraavaksi ohjelma pyytää vahvistamaan äskeisen komennon (yes/no) - vastaa yes
   * Jos git push sanoo “Permission denied (publickey)”, kokeile ssh-avaimen generointia uudestaan tai komentoa ssh-add
