@@ -27,7 +27,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
-* ()
+* (15.11.) Ensimmäiset katselmoinnit on nyt jaettu labtoolissa. Löydätte teille arvotun katselmointikohteen labtoolista kohdasta Code to review. [Ohjeet katselmintiin.](https://github.com/javaLabra/Javalabra2016-2/blob/master/ohjeet/Koodikatselmointi.md)
 
 # Aikataulu
 
