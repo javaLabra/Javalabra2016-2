@@ -25,7 +25,7 @@
 
 ## Uutisia
 
-* (24.11.) Demon ajankohta: 13.11. ke klo 14-16 luokassa **BK107**. Lähetä ohjaajille sähköpostia, jos et pääse osallistumaan.
+* (24.11.) Demon ajankohta: 14.11. ke klo 14-16 luokassa **BK107**. Lähetä ohjaajille sähköpostia, jos et pääse osallistumaan.
 * (15.11.) Ensimmäiset katselmoinnit on nyt jaettu labtoolissa. Löydätte teille arvotun katselmointikohteen labtoolista kohdasta Code to review. [Ohjeet katselmintiin.](https://github.com/javaLabra/Javalabra2016-2/blob/master/ohjeet/Koodikatselmointi.md)
 
 # Aikataulu
