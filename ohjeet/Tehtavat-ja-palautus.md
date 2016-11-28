@@ -45,7 +45,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 ### Demot
 
 * **Demotilaisuus on kaikille pakollinen**
-* Demotilaisuus 13.11. ke klo 14-16 luokassa BK107. Lähetä ohjaajille sähköpostia, jos et pääse osallistumaan.
+* Demotilaisuus 13.12. ke klo 14-16 luokassa BK107. Lähetä ohjaajille sähköpostia, jos et pääse osallistumaan.
 * Omaa työtä esitetään 3-7 min.
 * Ohjelman ei tarvitse olla demottaessa valmis tai bugiton
 * Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
