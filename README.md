@@ -25,6 +25,7 @@
 
 ## Uutisia
 
+* (1.12.) 6.12. itsenäisyyspäivälle merkattu paja siirretty keskiviikkoon 7.12. Luokka on **BK107**. Samaan aikaan on ohjelmoinnin jatkokurssin paja.
 * (24.11.) Demon ajankohta: 14.12. ke klo 14-16 luokassa **BK107**. Lähetä ohjaajille sähköpostia, jos et pääse osallistumaan.
 * (15.11.) Ensimmäiset katselmoinnit on nyt jaettu labtoolissa. Löydätte teille arvotun katselmointikohteen labtoolista kohdasta Code to review. [Ohjeet katselmintiin.](https://github.com/javaLabra/Javalabra2016-2/blob/master/ohjeet/Koodikatselmointi.md)
 
@@ -41,7 +42,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 | **46** <br> 14.11.-20.11.  | - | paja klo 14-16 | - | paja klo 14-16 | DL 3 klo 23:59 | - | katselmointi 1 klo 23:59 |
 | **47** <br> 21.11.-27.11.  | - | paja klo 14-16 | - | paja klo 14-16 | DL 4 klo 23:59 | - | - |
 | **48** <br> 28.11.-4.12. | - | paja klo 14-16 | - | paja klo 14-16 | DL 5 klo 23:59 | - | katselmointi 2 klo 23:59 |
-| **49** <br> 5.12.-11.12. | - | paja klo 14-16 | - | paja klo 14-16 | DL 6 klo 23:59 | - | - |
+| **49** <br> 5.12.-11.12. | - | - | paja klo 14-16 | paja klo 14-16 | DL 6 klo 23:59 | - | - |
 | **50** <br> 12.12.18.12. | - | paja klo 14-16 | **demo** klo 14-16 luokassa BK107 | paja klo 14-16 | loppupalautus klo 23:59 | - | - |
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
